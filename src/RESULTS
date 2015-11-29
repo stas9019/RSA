@@ -1,0 +1,169 @@
+/usr/lib/jvm/java-7-openjdk-amd64/bin/java -Didea.launcher.port=7534 -Didea.launcher.bin.path=/home/stas/.Idea14.1.4/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rhino.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/compilefontconfig.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/javazic.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/management-agent.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-7-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/home/stas/.IdeaProjects/RSA/out/production/RSA:/home/stas/.gvm/groovy/2.4.3/lib/gpars-1.2.1.jar:/home/stas/.gvm/groovy/2.4.3/lib/multiverse-core-0.7.0.jar:/home/stas/.gvm/groovy/2.4.3/lib/testng-6.8.13.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-nio-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/openbeans-1.0.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-json-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-servlet-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-swing-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/xmlpull-1.1.3.1.jar:/home/stas/.gvm/groovy/2.4.3/lib/jsp-api-2.0.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-console-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-ant-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/ant-junit-1.9.4.jar:/home/stas/.gvm/groovy/2.4.3/lib/commons-cli-1.2.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-jmx-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-sql-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/ant-antlr-1.9.4.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-xml-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/jline-2.12.jar:/home/stas/.gvm/groovy/2.4.3/lib/xstream-1.4.7.jar:/home/stas/.gvm/groovy/2.4.3/lib/jansi-1.11.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-jsr223-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-docgenerator-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-testng-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/ivy-2.4.0.jar:/home/stas/.gvm/groovy/2.4.3/lib/ant-launcher-1.9.4.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-test-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/qdox-1.12.1.jar:/home/stas/.gvm/groovy/2.4.3/lib/junit-4.12.jar:/home/stas/.gvm/groovy/2.4.3/lib/servlet-api-2.4.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-templates-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/ant-1.9.4.jar:/home/stas/.gvm/groovy/2.4.3/lib/commons-logging-1.2.jar:/home/stas/.gvm/groovy/2.4.3/lib/bsf-2.4.0.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-groovysh-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-bsf-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/jcommander-1.47.jar:/home/stas/.gvm/groovy/2.4.3/lib/groovy-groovydoc-2.4.3.jar:/home/stas/.gvm/groovy/2.4.3/lib/jsr166y-1.7.0.jar:/home/stas/.gvm/groovy/2.4.3/lib/hamcrest-core-1.3.jar:/home/stas/.Idea14.1.4/lib/idea_rt.jar com.intellij.rt.execution.application.AppMain Test
+(1, 2048) Parallel prime genertion started: Wed Nov 25 21:34:02 CET 2015
+
+(1, 2048) Parallel prime genertion finished: Wed Nov 25 21:34:04 CET 2015
+
+
+(1, 2048) Traditional prime genertion started: Wed Nov 25 21:34:04 CET 2015
+
+(1, 2048) Traditional prime genertion finished: Wed Nov 25 21:34:11 CET 2015
+
+
+==========================================================
+
+(1, 3072) Parallel prime genertion started: Wed Nov 25 21:34:11 CET 2015
+
+(1, 3072) Parallel prime genertion finished: Wed Nov 25 21:34:12 CET 2015
+
+
+(1, 3072) Traditional prime genertion started: Wed Nov 25 21:34:12 CET 2015
+
+(1, 3072) Traditional prime genertion finished: Wed Nov 25 21:34:16 CET 2015
+
+
+==========================================================
+
+(1, 7680) Parallel prime genertion started: Wed Nov 25 21:34:16 CET 2015
+
+(1, 7680) Parallel prime genertion finished: Wed Nov 25 21:34:31 CET 2015
+
+
+(1, 7680) Traditional prime genertion started: Wed Nov 25 21:34:31 CET 2015
+
+(1, 7680) Traditional prime genertion finished: Wed Nov 25 21:35:18 CET 2015
+
+
+==========================================================
+
+(2, 2048) Parallel prime genertion started: Wed Nov 25 21:35:18 CET 2015
+
+(2, 2048) Parallel prime genertion finished: Wed Nov 25 21:35:19 CET 2015
+
+
+(2, 2048) Traditional prime genertion started: Wed Nov 25 21:35:19 CET 2015
+
+(2, 2048) Traditional prime genertion finished: Wed Nov 25 21:35:26 CET 2015
+
+
+==========================================================
+
+(2, 3072) Parallel prime genertion started: Wed Nov 25 21:35:26 CET 2015
+
+(2, 3072) Parallel prime genertion finished: Wed Nov 25 21:35:38 CET 2015
+
+
+(2, 3072) Traditional prime genertion started: Wed Nov 25 21:35:38 CET 2015
+
+(2, 3072) Traditional prime genertion finished: Wed Nov 25 21:36:11 CET 2015
+
+
+==========================================================
+
+(2, 7680) Parallel prime genertion started: Wed Nov 25 21:36:11 CET 2015
+
+(2, 7680) Parallel prime genertion finished: Wed Nov 25 21:40:18 CET 2015
+
+
+(2, 7680) Traditional prime genertion started: Wed Nov 25 21:40:18 CET 2015
+
+(2, 7680) Traditional prime genertion finished: Wed Nov 25 21:43:15 CET 2015
+
+
+==========================================================
+
+(3, 2048) Parallel prime genertion started: Wed Nov 25 21:43:15 CET 2015
+
+(3, 2048) Parallel prime genertion finished: Wed Nov 25 21:43:21 CET 2015
+
+
+(3, 2048) Traditional prime genertion started: Wed Nov 25 21:43:21 CET 2015
+
+(3, 2048) Traditional prime genertion finished: Wed Nov 25 21:43:29 CET 2015
+
+
+==========================================================
+
+(3, 3072) Parallel prime genertion started: Wed Nov 25 21:43:29 CET 2015
+
+(3, 3072) Parallel prime genertion finished: Wed Nov 25 21:43:53 CET 2015
+
+
+(3, 3072) Traditional prime genertion started: Wed Nov 25 21:43:53 CET 2015
+
+(3, 3072) Traditional prime genertion finished: Wed Nov 25 21:44:04 CET 2015
+
+
+==========================================================
+
+(3, 7680) Parallel prime genertion started: Wed Nov 25 21:44:04 CET 2015
+
+(3, 7680) Parallel prime genertion finished: Wed Nov 25 21:56:27 CET 2015
+
+
+(3, 7680) Traditional prime genertion started: Wed Nov 25 21:56:27 CET 2015
+
+(3, 7680) Traditional prime genertion finished: Wed Nov 25 22:04:38 CET 2015
+
+
+==========================================================
+
+(4, 2048) Parallel prime genertion started: Wed Nov 25 22:04:38 CET 2015
+
+(4, 2048) Parallel prime genertion finished: Wed Nov 25 22:04:41 CET 2015
+
+
+(4, 2048) Traditional prime genertion started: Wed Nov 25 22:04:41 CET 2015
+
+(4, 2048) Traditional prime genertion finished: Wed Nov 25 22:04:50 CET 2015
+
+
+==========================================================
+
+(4, 3072) Parallel prime genertion started: Wed Nov 25 22:04:50 CET 2015
+
+(4, 3072) Parallel prime genertion finished: Wed Nov 25 22:05:40 CET 2015
+
+
+(4, 3072) Traditional prime genertion started: Wed Nov 25 22:05:40 CET 2015
+
+(4, 3072) Traditional prime genertion finished: Wed Nov 25 22:06:45 CET 2015
+
+
+==========================================================
+
+(4, 7680) Parallel prime genertion started: Wed Nov 25 22:06:45 CET 2015
+
+(4, 7680) Parallel prime genertion finished: Wed Nov 25 22:41:04 CET 2015
+
+
+(4, 7680) Traditional prime genertion started: Wed Nov 25 22:41:04 CET 2015
+
+(4, 7680) Traditional prime genertion finished: Wed Nov 25 23:22:14 CET 2015
+
+
+==========================================================
+
+(5, 2048) Parallel prime genertion started: Wed Nov 25 23:22:14 CET 2015
+
+(5, 2048) Parallel prime genertion finished: Wed Nov 25 23:22:23 CET 2015
+
+
+(5, 2048) Traditional prime genertion started: Wed Nov 25 23:22:23 CET 2015
+
+(5, 2048) Traditional prime genertion finished: Wed Nov 25 23:22:38 CET 2015
+
+
+==========================================================
+
+(5, 3072) Parallel prime genertion started: Wed Nov 25 23:22:38 CET 2015
+
+(5, 3072) Parallel prime genertion finished: Wed Nov 25 23:23:44 CET 2015
+
+
+(5, 3072) Traditional prime genertion started: Wed Nov 25 23:23:44 CET 2015
+
+(5, 3072) Traditional prime genertion finished: Wed Nov 25 23:24:20 CET 2015
+
+
+==========================================================
+
